@@ -1,0 +1,7 @@
+pydantic
+pydantic-settings
+bson
+structlog
+motor
+rapidfuzz
+minio
